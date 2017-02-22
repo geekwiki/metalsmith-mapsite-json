@@ -1,25 +1,25 @@
 {
-  "name": "metalsmith-mapsite",
-  "version": "1.0.4",
-  "description": "A metalsmith plugin for generating a sitemap.xml file.",
+  "name": "metalsmith-mapsite-json",
+  "version": "0.1.0",
+  "description": "A metalsmith plugin for generating a sitemap.json file. (Forked from superwolff/metalsmith-mapsite.git)",
   "main": "lib/index.js",
   "scripts": {
     "test": "make test"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/superwolff/metalsmith-mapsite.git"
+    "url": "https://github.com/geekwiki/metalsmith-mapsite-json"
   },
   "keywords": [
     "metalsmith",
     "sitemap"
   ],
-  "author": "superwolff <superwolff@superwolff.nl> (http://superwolff.nl/)",
+  "author": "Justin Hyland <J@Linux.com> (http://justinhyland.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/superwolff/metalsmith-mapsite/issues"
+    "url": "https://github.com/geekwiki/metalsmith-mapsite-json/issues"
   },
-  "homepage": "https://github.com/superwolff/metalsmith-mapsite",
+  "homepage": "https://github.com/geekwiki/metalsmith-mapsite-json",
   "dependencies": {
     "is": "^3.0.1",
     "lodash.identity": "^3.0.0",
